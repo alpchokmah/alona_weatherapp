@@ -11,7 +11,7 @@ Install the necessary packages, use the following command to install the package
   > npm install
 
 ##
-Create .env file on the root of your folder and add the following variables
+Create .env file on the root of your folder and add the following variables  
   REACT_APP_API_KEY = "ADD YOUR OWN API KEY HERE"  
   REACT_APP_API_URL = http://dataservice.accuweather.com  
   REACT_APP_API_VERSION = v1  
